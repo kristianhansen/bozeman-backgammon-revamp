@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# bozeman-backgammon
 
 TODO: Document your project here
