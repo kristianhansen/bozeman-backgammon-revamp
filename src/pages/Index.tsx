@@ -59,7 +59,7 @@ const Index = () => {
             icon={<MapPin className="w-6 h-6" />}
             title="gute Laune"
             description="Bozeman, MT"
-            link="https://www.bozemanbackgammon.com/2025/04/18/gute-laune-location/"
+            link="https://www.google.com/maps/place/gute+Laune/@45.6790349,-111.0376606,15z/data=!4m6!3m5!1s0x534545889edc4d97:0x86be3bc244731936!8m2!3d45.6790349!4d-111.0376606!16s/g/11ldvj1262"
           />
           <InfoCard
             icon={<Users className="w-6 h-6" />}
