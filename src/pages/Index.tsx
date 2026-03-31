@@ -1,6 +1,6 @@
 import { Instagram, MapPin, Clock, Users } from "lucide-react";
 import heroImage from "@/assets/hero-backgammon.jpg";
-import diceIcon from "@/assets/dice-icon.png";
+import logo from "@/assets/backgammon-logo.jpg";
 
 const Index = () => {
   return (
@@ -9,7 +9,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <img src={diceIcon} alt="Dice" className="w-8 h-8 invert opacity-80" />
+            <img src={logo} alt="Bozeman Backgammon Club logo" className="h-8 w-auto rounded" />
             <span className="font-heading text-lg font-bold text-foreground">Bozeman Backgammon</span>
           </div>
           <a
